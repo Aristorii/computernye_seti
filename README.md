@@ -22,7 +22,7 @@
 - **Единый репозиторий.** Все материалы, заметки и результаты практик ведутся в одном репозитории курса.
 - **Практикумы.** Расчёт подсетей и проверка конфигурации выполняются на реальных сценариях, а не на абстрактных примерах.
 
-***
+---
 
 ##  Структура репозитория
 
@@ -47,18 +47,18 @@
 
 ---
 
-### 📊 Теория и презентации
+### Теория и презентации
 
 Здесь собраны лекционные материалы и полезные файлы для подготовки:
 
 |  Файл | Тема | Ссылка |
 | :--- | :--- | :---: |
-| 📊 `Ipv4.pptx` | Протокол IPv4 | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Ipv4.pptx)|
-| 📊 `Коммутация Ethernet.pptx` | Технологии Ethernet | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Архитектура%20аппаратных%20средств.pptx) |
-| 📊 `Модели.pptx` | Сетевые модели | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Коммутация%20Ethernet.pptx) |
-| 📊 `архитектура аппаратных сред...` | Аппаратные средства | [`Скачать`] (https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Маршрут%20циско.ppt) |
-| 📊 `маршрут циско.ppt` | Маршрутизация Cisco | [`Скачать`] (https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Маршрут.ppt) |
-| 📊 `маршрут.ppt` | Основы маршрутизации | [`Скачать`] (https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Модели.pptx) |
+| `Ipv4.pptx` | Протокол IPv4 | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Ipv4.pptx)|
+| `Коммутация Ethernet.pptx` | Технологии Ethernet | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Архитектура%20аппаратных%20средств.pptx) |
+| `Модели.pptx` | Сетевые модели | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Коммутация%20Ethernet.pptx) |
+| `Архитектура аппаратных сред...` | Аппаратные средства | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Маршрут%20циско.ppt) |
+| `Маршрут циско.ppt` | Маршрутизация Cisco | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Маршрут.ppt) |
+| `Маршрут.ppt` | Основы маршрутизации | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Модели.pptx) |
 
 ---
 
