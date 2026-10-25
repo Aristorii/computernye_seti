@@ -53,12 +53,12 @@
 
 |  Файл | Тема | Ссылка |
 | :--- | :--- | :---: |
-| 📊 `Ipv4.pptx` | Протокол IPv4 | [`Скачать`](ССЫЛКА_СЮДА) |
-| 📊 `Коммутация Ethernet.pptx` | Технологии Ethernet | [`Скачать`](ССЫЛКА_СЮДА) |
-| 📊 `Модели.pptx` | Сетевые модели | [`Скачать`](ССЫЛКА_СЮДА) |
-| 📊 `архитектура аппаратных сред...` | Аппаратные средства | [`Скачать`](ССЫЛКА_СЮДА) |
-| 📊 `маршрут циско.ppt` | Маршрутизация Cisco | [`Скачать`](ССЫЛКА_СЮДА) |
-| 📊 `маршрут.ppt` | Основы маршрутизации | [`Скачать`](ССЫЛКА_СЮДА) |
+| 📊 `Ipv4.pptx` | Протокол IPv4 | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Ipv4.pptx)|
+| 📊 `Коммутация Ethernet.pptx` | Технологии Ethernet | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Архитектура%20аппаратных%20средств.pptx) |
+| 📊 `Модели.pptx` | Сетевые модели | [`Скачать`](https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Коммутация%20Ethernet.pptx) |
+| 📊 `архитектура аппаратных сред...` | Аппаратные средства | [`Скачать`] (https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Маршрут%20циско.ppt) |
+| 📊 `маршрут циско.ppt` | Маршрутизация Cisco | [`Скачать`] (https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Маршрут.ppt) |
+| 📊 `маршрут.ppt` | Основы маршрутизации | [`Скачать`] (https://github.com/Aristorii/computernye_seti/blob/main/Teoria/Модели.pptx) |
 
 ---
 
